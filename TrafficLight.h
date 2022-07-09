@@ -1,7 +1,6 @@
 // This Header file contains the class TrafficLight with attributes, getters and setters
 // It has functions to make the program wait and print the state of traffic lights
 // Created by: Sushil Bohara
-// Net ID: sb7702
 
 #pragma once
 #include <iomanip>  
