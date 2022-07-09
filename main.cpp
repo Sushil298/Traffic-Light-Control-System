@@ -1,10 +1,5 @@
 // This Program controls the traffic lights at the intersection of roads
-// Assignment 4:-
-// Civil Engineering Case Study- Traffic Light Control System
-// NYU Abu Dhabi, Fall 2020
 // Created by : Sushil Bohara 
-// Net ID: sb7702
-// This program assumes that if any light is dropped, it does not mean that it is turned off
 // If any light is dropped, it means that it is completely removed but the sensor still reads the data for corresponding roads and updates in the file
 
 
