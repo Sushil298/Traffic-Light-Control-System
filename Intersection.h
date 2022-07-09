@@ -1,7 +1,7 @@
 // This Header file contains the class Intersection with attributes, getters and setters
 // It has functions to add/drop traffic lights, run the traffic light simulation,  read data from the file and update the Green Timing
 // Created by: Sushil Bohara
-// Email: sb7702@nyu.edu
+
 
 #pragma once
 #include <fstream>
